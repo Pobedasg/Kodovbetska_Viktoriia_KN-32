@@ -1,0 +1,622 @@
+.desktop {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .div {
+  background-color: #ffffff;
+  overflow: hidden;
+  width: 1440px;
+  height: 6294px;
+  position: relative;
+}
+
+.desktop .header {
+  position: absolute;
+  width: 1440px;
+  height: 290px;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+}
+
+.desktop .group {
+  width: 1442px;
+  height: 290px;
+}
+
+.desktop .overlap-group {
+  position: relative;
+  width: 1440px;
+  height: 290px;
+  background-color: #1c5d22;
+}
+
+.desktop .text-wrapper {
+  position: absolute;
+  width: 532px;
+  top: 90px;
+  left: 454px;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 96px;
+  letter-spacing: 0;
+  line-height: normal;
+  white-space: nowrap;
+}
+
+.desktop .element {
+  position: absolute;
+  width: 121px;
+  height: 120px;
+  top: 85px;
+  left: 47px;
+  object-fit: cover;
+}
+
+.desktop .overlap {
+  position: absolute;
+  width: 1444px;
+  height: 6004px;
+  top: 290px;
+  left: 0;
+}
+
+.desktop .overlap-2 {
+  position: absolute;
+  width: 1442px;
+  height: 6004px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .side-menu {
+  position: absolute;
+  width: 368px;
+  height: 5871px;
+  top: 0;
+  left: 0;
+  background-color: #68a96a;
+}
+
+.desktop .side-menu-2 {
+  position: relative;
+  width: 260px;
+  height: 618px;
+  top: 53px;
+  left: 33px;
+}
+
+.desktop .text-wrapper-2 {
+  position: absolute;
+  top: 0;
+  left: 1px;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 85px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-3 {
+  position: absolute;
+  top: 181px;
+  left: 2px;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-4 {
+  position: absolute;
+  top: 301px;
+  left: 3px;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-5 {
+  position: absolute;
+  top: 421px;
+  left: 0;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-6 {
+  position: absolute;
+  top: 541px;
+  left: 3px;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-3 {
+  position: absolute;
+  width: 1442px;
+  height: 5795px;
+  top: 209px;
+  left: 0;
+}
+
+.desktop .content {
+  position: absolute;
+  width: 1072px;
+  height: 5737px;
+  top: 0;
+  left: 368px;
+}
+
+.desktop .overlap-4 {
+  position: relative;
+  height: 5737px;
+}
+
+.desktop .content-2 {
+  position: absolute;
+  width: 1072px;
+  height: 5662px;
+  top: 0;
+  left: 0;
+  background-color: #d0f7cd;
+}
+
+.desktop .content-3 {
+  position: absolute;
+  width: 988px;
+  height: 5696px;
+  top: 41px;
+  left: 40px;
+}
+
+.desktop .flora {
+  position: absolute;
+  width: 929px;
+  height: 664px;
+  top: 0;
+  left: 28px;
+}
+
+.desktop .text-wrapper-7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .overlap-5 {
+  position: absolute;
+  width: 923px;
+  height: 560px;
+  top: 104px;
+  left: 0;
+}
+
+.desktop .image {
+  position: absolute;
+  width: 318px;
+  height: 283px;
+  top: 0;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .overlap-6 {
+  position: absolute;
+  width: 923px;
+  height: 549px;
+  top: 11px;
+  left: 0;
+}
+
+.desktop .overlap-group-2 {
+  position: absolute;
+  width: 600px;
+  height: 549px;
+  top: 0;
+  left: 323px;
+}
+
+.desktop .img {
+  position: absolute;
+  width: 375px;
+  height: 281px;
+  top: 268px;
+  left: 225px;
+  object-fit: cover;
+}
+
+.desktop .p {
+  position: absolute;
+  width: 600px;
+  top: 0;
+  left: 0;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-8 {
+  position: absolute;
+  width: 538px;
+  top: 299px;
+  left: 0;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .fauna {
+  position: absolute;
+  width: 922px;
+  height: 785px;
+  top: 791px;
+  left: 26px;
+}
+
+.desktop .text-wrapper-9 {
+  position: absolute;
+  top: 0;
+  left: 4px;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 64px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-2 {
+  position: absolute;
+  width: 282px;
+  height: 297px;
+  top: 110px;
+  left: 4px;
+  object-fit: cover;
+}
+
+.desktop .image-3 {
+  position: absolute;
+  width: 262px;
+  height: 356px;
+  top: 429px;
+  left: 648px;
+  object-fit: cover;
+}
+
+.desktop .elves-elves {
+  position: absolute;
+  width: 605px;
+  top: 110px;
+  left: 311px;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-10 {
+  position: absolute;
+  width: 562px;
+  top: 523px;
+  left: 0;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .myths {
+  position: absolute;
+  width: 915px;
+  height: 1084px;
+  top: 1719px;
+  left: 33px;
+}
+
+.desktop .overlap-7 {
+  position: relative;
+  width: 917px;
+  height: 1084px;
+}
+
+.desktop .text-wrapper-11 {
+  position: absolute;
+  width: 562px;
+  top: 705px;
+  left: 346px;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .group-2 {
+  position: absolute;
+  width: 917px;
+  height: 1084px;
+  top: 0;
+  left: 0;
+}
+
+.desktop .image-4 {
+  position: absolute;
+  width: 351px;
+  height: 351px;
+  top: 733px;
+  left: 1px;
+  object-fit: cover;
+}
+
+.desktop .in-the-ancient-lore {
+  position: absolute;
+  width: 552px;
+  top: 132px;
+  left: 1px;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-5 {
+  position: absolute;
+  width: 359px;
+  height: 237px;
+  top: 132px;
+  left: 553px;
+  object-fit: cover;
+}
+
+.desktop .image-6 {
+  position: absolute;
+  width: 358px;
+  height: 212px;
+  top: 407px;
+  left: 555px;
+}
+
+.desktop .about-organization {
+  position: absolute;
+  width: 938px;
+  height: 1055px;
+  top: 3011px;
+  left: 10px;
+}
+
+.desktop .overlap-8 {
+  position: absolute;
+  width: 531px;
+  height: 949px;
+  top: 106px;
+  left: 0;
+}
+
+.desktop .the-organization-of {
+  position: absolute;
+  width: 506px;
+  top: 0;
+  left: 0;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-7 {
+  position: absolute;
+  width: 510px;
+  height: 348px;
+  top: 601px;
+  left: 21px;
+  object-fit: cover;
+}
+
+.desktop .image-8 {
+  position: absolute;
+  width: 395px;
+  height: 264px;
+  top: 190px;
+  left: 531px;
+  object-fit: cover;
+}
+
+.desktop .an-unspoken {
+  position: absolute;
+  width: 378px;
+  top: 642px;
+  left: 554px;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .location {
+  position: absolute;
+  width: 932px;
+  height: 530px;
+  top: 4222px;
+  left: 31px;
+}
+
+.desktop .overlap-9 {
+  position: relative;
+  width: 928px;
+  height: 530px;
+}
+
+.desktop .overlap-10 {
+  position: absolute;
+  width: 928px;
+  height: 469px;
+  top: 61px;
+  left: 0;
+}
+
+.desktop .text-wrapper-12 {
+  position: absolute;
+  width: 562px;
+  top: 0;
+  left: 366px;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  text-align: right;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-9 {
+  position: absolute;
+  width: 368px;
+  height: 350px;
+  top: 68px;
+  left: 0;
+  object-fit: cover;
+}
+
+.desktop .help {
+  position: absolute;
+  width: 992px;
+  height: 807px;
+  top: 4889px;
+  left: 0;
+}
+
+.desktop .your-generous {
+  position: absolute;
+  width: 445px;
+  top: 144px;
+  left: 0;
+  font-family: "Jacques Francois", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .image-10 {
+  position: absolute;
+  width: 524px;
+  height: 531px;
+  top: 103px;
+  left: 464px;
+}
+
+.desktop .footer {
+  position: absolute;
+  width: 1442px;
+  height: 133px;
+  top: 5662px;
+  left: 0;
+  background-color: transparent;
+}
+
+.desktop .by-victoriia-wrapper {
+  position: relative;
+  width: 1440px;
+  height: 133px;
+  background-color: #1c5d22;
+}
+
+.desktop .by-victoriia {
+  position: absolute;
+  width: 394px;
+  top: 50px;
+  left: 1003px;
+  font-family: "Italiana", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 36px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .menu {
+  position: absolute;
+  width: 1076px;
+  height: 209px;
+  top: 0;
+  left: 368px;
+}
+
+.desktop .overlap-11 {
+  position: relative;
+  width: 1072px;
+  height: 209px;
+  background-color: #a3f39d;
+}
+
+.desktop .text-wrapper-13 {
+  position: absolute;
+  top: 76px;
+  left: 86px;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #113c15;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
+
+.desktop .text-wrapper-14 {
+  position: absolute;
+  top: 76px;
+  left: 618px;
+  font-family: "Irish Grover", Helvetica;
+  font-weight: 400;
+  color: #123d16;
+  font-size: 48px;
+  letter-spacing: 0;
+  line-height: normal;
+}
